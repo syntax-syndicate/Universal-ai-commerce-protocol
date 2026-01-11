@@ -401,5 +401,5 @@ ______________________________________________________________________
 ## See Also
 
 - **[Tokenization Guide](https://ucp.dev/specification/tokenization-guide/index.md)** — Guide for building tokenization payment handlers
-- **[Google Pay Handler](https://developers.google.com/merchant/ucp/guides/gpay_payment_handler.md)** — Handler for Google Pay integration
+- **[Google Pay Handler](https://developers.google.com/merchant/ucp/guides/google-pay-payment-handler)** — Handler for Google Pay integration
 - **[Shop Pay Handler](https://shopify.dev/docs/agents/checkout/shop-pay-handler)** — Handler for Shop Pay integration
